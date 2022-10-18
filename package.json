@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ranamuhammadirshad.github.io/UPDATED-The-Food-Order-App-React-App",
+  "homepage": "https://ranamuhammadirshad.github.io/Food-React-App/",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +17,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
